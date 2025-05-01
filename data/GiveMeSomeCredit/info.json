@@ -1,0 +1,5 @@
+{
+    "task_type": "binclass",
+    "n_num_features": 10,
+    "n_cat_features": 0
+}
